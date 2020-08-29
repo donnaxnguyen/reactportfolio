@@ -1,0 +1,10 @@
+a {
+    color: rgb(228, 181, 232);
+    font-weight: bold;
+  }
+  
+  a:hover {
+    color:#DEDEE3 !important;
+    transition-duration: 1s;
+    border-color: #DEDEE3;
+  }

@@ -1,7 +1,8 @@
 /* adding pink clouds background   */
 body {
 	margin: 0px;
-	background-color: #f5f5f5;
 	background-image: url("https://cdn.pixabay.com/photo/2019/03/28/10/19/sky-4086848_960_720.jpg");
 	background-attachment: fixed;
+	background-size:100% 100%;
+	background-repeat: none;
 }
